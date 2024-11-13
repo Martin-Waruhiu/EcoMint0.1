@@ -32,7 +32,7 @@ Development Tools
 TypeScript for type safety.
 ESLint for code quality.
 PostCSS and Autoprefixer for CSS processing and cross-browser compatibility.
- DEV Architecture
+  Architecture
 Frontend: Built with React and TypeScript, the frontend handles user interactions and displays content dynamically based on blockchain data.
 Blockchain: Smart contracts on the Ethereum blockchain manage NFTs and enforce royalties, utilizing Ethers.js for communication between the application and Ethereum.
 Decentralized Storage: IPFS stores art assets and metadata, ensuring permanence and security.
