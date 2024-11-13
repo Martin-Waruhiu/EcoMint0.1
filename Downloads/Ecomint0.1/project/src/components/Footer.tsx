@@ -10,7 +10,7 @@ const Footer: React.FC = () => {
           <span>Made with love for the environment</span>
         </div>
         <div className="flex space-x-4">
-          <a href="#" className="hover:text-green-400 transition-colors">Terms</a>
+          <a href="#" className="hover:text-green-400 transition-colors">Termss</a>
           <a href="#" className="hover:text-green-400 transition-colors">Privacy</a>
           <a href="#" className="hover:text-green-400 transition-colors">Contact</a>
         </div>
