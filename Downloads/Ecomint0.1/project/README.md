@@ -52,6 +52,6 @@ eco-mint/
 │   ├── styles/            # Global styles, Tailwind configurations
 │   ├── App.tsx            # Main app component
 │   └── index.tsx          # Application entry point
-└── .env                   # Environment variables
+└── .env                   # Environment variable
 └── README.md
 
